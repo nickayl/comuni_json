@@ -1,4 +1,4 @@
-# Comuni Italiani con provincia e codice istat
+# Comuni Italiani in formato JSON
 
 Comuni italiani in formato JSON proveniente dal file xls del sito ufficiale ISTAT:
 
