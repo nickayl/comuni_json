@@ -1,6 +1,6 @@
 # Comuni Italiani con provincia e codice istat
 
-Comuni italiani in formato JSON proveniente dal file xls del sito ISTAT:
+Comuni italiani in formato JSON proveniente dal file xls del sito ufficiale ISTAT:
 
 https://www.istat.it/storage/codici-unita-amministrative/Elenco-codici-statistici-e-denominazioni-delle-unita-territoriali.zip
 
